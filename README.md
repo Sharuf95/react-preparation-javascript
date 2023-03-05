@@ -1,11 +1,11 @@
 ## Javascript Concepts before starting ReactJS
 
 ### Class 1: Javascript Fundamentals
-- [x] Introduction to Javascript
-- [x] Variables, data types and operators
-- [x] Control structures (if/else, switch statements, loops)
-- [x] Functions and scope
-- [x] Arrays and objects
+- [ ] Introduction to Javascript
+- [ ] Variables, data types and operators
+- [ ] Control structures (if/else, switch statements, loops)
+- [ ] Functions and scope
+- [ ] Arrays and objects
 - [ ] ES6 features (let and const, arrow functions, template literals)
 
 
