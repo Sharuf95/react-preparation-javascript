@@ -12,3 +12,8 @@ function greet() {
   console.log(name); // here `name` is local scope variable
 }
 console.log(name); // ERROR: ReferenceError: name is not defined
+
+
+
+
+
