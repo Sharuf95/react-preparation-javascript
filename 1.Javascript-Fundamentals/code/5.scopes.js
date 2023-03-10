@@ -13,7 +13,3 @@ function greet() {
 }
 console.log(name); // ERROR: ReferenceError: name is not defined
 
-
-
-
-
