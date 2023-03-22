@@ -157,3 +157,54 @@ person3
 
 returndata("shaik","Sharuf","zakeer");
 console.log(returndata("shaik","Sharuf","zakeer"));
+
+
+
+
+
+
+
+
+
+
+var app = {
+    friends:[],
+    addfriend : function(name){
+     app.friends.push(name);
+     return app
+    }
+    
+};
+console.log(app.friends);   // []
+app.addfriend("Shaik");    //  []
+console.log(app.friends); // ["Shaik"]
+app.addfriend("Sharuf");
+console.log(app.friends); // ["Shaik", "Sharuf"]
+
+
+
+
+
+
+
+const app = (function(){
+    const friends = [];
+    
+    return {
+      getfriends(){
+        return friends;
+      },
+      addfriends(name){
+        friends.push(name)
+      }
+    }
+  })();
+  
+  
+  console.log(app.friends); // undefined
+  console.log(app.getfriends()); // []
+  
+  app.addfriends("sharuf");
+  app.addfriends("shaik");
+  app.addfriends("yesh");
+  console.log(app.getfriends()); // ["sharuf", "shaik", "yesh"]
