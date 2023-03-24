@@ -162,49 +162,26 @@ console.log(returndata("shaik","Sharuf","zakeer"));
 
 
 
-
-
-
-
-
-var app = {
-    friends:[],
-    addfriend : function(name){
-     app.friends.push(name);
-     return app
+const multiplier = (mainnumber) => {
+    return (number) => {
+        return mainnumber * number
     }
-    
+}
+
+
+
+function multiplier(mainnumber){
+    return function (number){
+        return mainnumber * number
+    };
 };
-console.log(app.friends);   // []
-app.addfriend("Shaik");    //  []
-console.log(app.friends); // ["Shaik"]
-app.addfriend("Sharuf");
-console.log(app.friends); // ["Shaik", "Sharuf"]
+multiplier(10)(3) // 30
+var twomultiplier = multiplier(2)
+twomultiplier(10) // 20
+
+multiplier(20)(3) // 60
+var fivemultiplier = multiplier(5)
+fivemultiplier(10) // 50
 
 
 
-
-
-
-
-const app = (function(){
-    const friends = [];
-    
-    return {
-      getfriends(){
-        return friends;
-      },
-      addfriends(name){
-        friends.push(name)
-      }
-    }
-  })();
-  
-  
-  console.log(app.friends); // undefined
-  console.log(app.getfriends()); // []
-  
-  app.addfriends("sharuf");
-  app.addfriends("shaik");
-  app.addfriends("yesh");
-  console.log(app.getfriends()); // ["sharuf", "shaik", "yesh"]
