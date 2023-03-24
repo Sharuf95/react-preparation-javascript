@@ -153,35 +153,9 @@ person2,
 person3
 }
 }  
-                     
-
 returndata("shaik","Sharuf","zakeer");
 console.log(returndata("shaik","Sharuf","zakeer"));
 
-
-
-
-
-const multiplier = (mainnumber) => {
-    return (number) => {
-        return mainnumber * number
-    }
-}
-
-
-
-function multiplier(mainnumber){
-    return function (number){
-        return mainnumber * number
-    };
-};
-multiplier(10)(3) // 30
-var twomultiplier = multiplier(2)
-twomultiplier(10) // 20
-
-multiplier(20)(3) // 60
-var fivemultiplier = multiplier(5)
-fivemultiplier(10) // 50
 
 
 
