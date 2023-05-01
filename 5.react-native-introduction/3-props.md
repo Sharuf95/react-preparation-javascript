@@ -1,5 +1,3 @@
-# Link [ https://snack.expo.dev/oZZ3uYm-g ]
-
 # Link [ https://snack.expo.dev/OoOg-RMKO ]
 
 ## Understanding Props in React Native

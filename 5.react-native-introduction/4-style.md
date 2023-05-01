@@ -1,5 +1,3 @@
-# Link [ https://snack.expo.dev/oZZ3uYm-g ]
-
 # Link [ https://snack.expo.dev/OoOg-RMKO ]
 
 ## Understanding Styles in React Native
