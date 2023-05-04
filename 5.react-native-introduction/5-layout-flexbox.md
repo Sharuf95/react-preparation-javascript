@@ -1,14 +1,5 @@
 # Layout Link [ https://snack.expo.dev/O83dIQ9_6  ] 
-
-
-
 # Flexbox Link [ https://snack.expo.dev/OjOyolsC3q ]
-
-
-
-
-
-
 
 ## Understanding Layout in React Native
 
