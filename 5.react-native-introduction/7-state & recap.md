@@ -1,4 +1,4 @@
-# State Link [https://snack.expo.dev/q0feSddSt  ] 
+# State Link [https://snack.expo.dev/aV75cEy4j  ] 
 
 
 ## Creating a Customizable Card Component
