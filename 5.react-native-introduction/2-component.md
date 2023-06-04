@@ -1,4 +1,4 @@
-# Link [  https://snack.expo.dev/oPLpka0oC ]
+# Components Link [  https://snack.expo.dev/oPLpka0oC ]
 
 ## Understanding Components in React Native
 

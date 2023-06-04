@@ -1,4 +1,4 @@
-# Link [ https://snack.expo.dev/OoOg-RMKO ]
+# Props Link [ https://snack.expo.dev/OoOg-RMKO ]
 
 ## Understanding Props in React Native
 

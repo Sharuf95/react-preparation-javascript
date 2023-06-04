@@ -1,4 +1,4 @@
-# Link [ https://snack.expo.dev/OoOg-RMKO ]
+# Style Link [ https://snack.expo.dev/OoOg-RMKO ]
 
 ## Understanding Styles in React Native
 
