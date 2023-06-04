@@ -1,5 +1,5 @@
 # State Link [https://snack.expo.dev/aV75cEy4j  ] 
-# state class base and functional base [ https://snack.expo.dev/Y7b0Wcw5E ]
+# State Class Base and Functional Base Link [ https://snack.expo.dev/Y7b0Wcw5E ]
 
 
 ## Creating a Customizable Card Component
