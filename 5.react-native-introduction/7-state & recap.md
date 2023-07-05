@@ -2,6 +2,10 @@
 # State Class Base and Functional Base Link [ https://snack.expo.dev/Y7b0Wcw5E ]
 
 # Class based Friends list project Link [ https://snack.expo.dev/MdY81GRRI ]
+
+# React-classbase-component-lifecycle-methods [ https://snack.expo.dev/MnnXQuzXh ]
+                                                
+
 ## Creating a Customizable Card Component
 
 ---
