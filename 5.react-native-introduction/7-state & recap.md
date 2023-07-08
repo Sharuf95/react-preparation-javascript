@@ -4,8 +4,10 @@
 # Class based Friends list project Link [ https://snack.expo.dev/MdY81GRRI ]
 
 # Part 1:- React-classbase-component-lifecycle-methods [ https://snack.expo.dev/MnnXQuzXh ]
-# Part 2:- React-classbase-component-lifecycle-methods [ https://snack.expo.dev/XxVpEP2rp ]
-                                                
+# Part 2:-React-classbase -component-lifecycle-methods [ https://snack.expo.dev/XxVpEP2rp ]
+
+# React classbase component lifecycle with methods Api Call [ https://snack.expo.dev/cZlBuNHBF ]
+                                                 
 
 ## Creating a Customizable Card Component
 
