@@ -7,6 +7,10 @@
 # Part 2:-React-classbase -component-lifecycle-methods [ https://snack.expo.dev/XxVpEP2rp ]
 
 # React classbase component lifecycle with methods Api Call [ https://snack.expo.dev/cZlBuNHBF ]
+
+
+# React Functional Based lifecycle Methods [ https://snack.expo.dev/djxbRUvuM ]
+
                                                  
 
 ## Creating a Customizable Card Component
