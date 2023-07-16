@@ -8,8 +8,9 @@
 
 # React classbase component lifecycle with methods Api Call [ https://snack.expo.dev/cZlBuNHBF ]
 
-
 # React Functional Based lifecycle Methods [ https://snack.expo.dev/djxbRUvuM ]
+
+# React Functional Component LifeCycle methods with Api___Fake-products-functional-base[ https://snack.expo.dev/dUvbYHdLl ]
 
                                                  
 
